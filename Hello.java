@@ -4,6 +4,7 @@ public class Hello {
 	//System.out.println("Hello") ;
 String s1 = "Hello";
 System.out.println(s1) ;
+System.out.print("Hi");
 
 	
 	}
